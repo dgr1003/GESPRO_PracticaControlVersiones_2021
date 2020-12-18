@@ -42,3 +42,9 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
+
+**Nombre de los miembros del grupo:**
+
+-[Alejandro Fernández Pérez](https://github.com/afp1002)
+-[Diego Delgado Lozano](https://github.com/ddl1001)
+-[Diego González Román](https://github.com/dgr1003)
